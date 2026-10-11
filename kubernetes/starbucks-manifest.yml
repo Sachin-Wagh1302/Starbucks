@@ -16,7 +16,7 @@ spec:
     spec:
       containers:
         - name: starbucks-container
-          image: kastrov/starbucks:latest
+          image: 396278862067.dkr.ecr.ap-south-1.amazonaws.com/starbucks
           ports:
             - containerPort: 3000
 ---
